@@ -2,7 +2,7 @@
 import axios from "axios";
 
 const axiosInstance = axios.create({
-  baseURL: "https://gestionstock-production.up.railway.app/",
+  baseURL: "https://demo-back-ngzz.onrender.com/",
   timeout: 60000,
   headers: {
     "Content-Type": "application/json",

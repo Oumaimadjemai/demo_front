@@ -19,10 +19,7 @@ export default function SideLoginPage() {
         boxShadow: "none !important", // remove default shadow if needed
       }}
     >
-      <h1 style={{ textAlign: "center", color: "white" }}>دار لقمان</h1>
-      <h2 style={{ textAlign: "center", color: "white" }}>
-        ثقة في البيع .... و تيسير في التقسيط
-      </h2>
+      
       <CardMedia
         component="img"
         image="/assets/images/undraw_login_weas.svg"

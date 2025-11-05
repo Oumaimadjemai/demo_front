@@ -345,7 +345,7 @@ const filteredMenuItems = useMemo(() => {
         component="img"
         src="/assets/images/logo.png"
         alt="Logo"
-        sx={{ width: 80, height: "auto", ml: "30%", mt: 2 }}
+        sx={{ width: 80, height: "auto", ml: "30%", mt: 2 ,borderRadius:"30px"}}
       />
 
       <Box
